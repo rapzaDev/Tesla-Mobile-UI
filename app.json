@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "030622",
+    "slug": "030622",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "030622"
+}
